@@ -1,4 +1,4 @@
-# final-project
+# final-project Pre Processing
 ## Handling Missing Value
 Missing values dilakukan dengan cara imputation /  menggisi nilai dengan median dan modus. Hal ini karena data missing value sebesar 32,966% dari data yang dimiliki sehingga menghapus data missing value kurang tepat untuk dilakukan. 
 
